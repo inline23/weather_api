@@ -1,4 +1,4 @@
 # weather app 
-
-A new Flutter project.
+flutter app connected with api to get weather
+depend on device location
 
